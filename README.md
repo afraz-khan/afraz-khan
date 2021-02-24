@@ -9,7 +9,7 @@ I have been developing **serverless** ☁️ backends/ micro-services/ etl-pipel
 ----
 
 ![Afraz's GitHub stats](https://github-readme-stats-mrafrazkhan.vercel.app/api?username=mrafrazkhan&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-[![Top Langs](https://github-readme-stats-mrafrazkhan.vercel.app/api/top-langs/?username=mrafrazkhan&layout=compact)](https://github.com/mrafrazkhan/github-readme-stats)
+[![Top Langs](https://github-readme-stats-mrafrazkhan.vercel.app/api/top-langs/?username=mrafrazkhan&layout=compact)](https://github.com/mrafrazkhan/github-readme-stats-deploy)
 
 <!--
 **MrAfrazKhan/MrAfrazKhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
