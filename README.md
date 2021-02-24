@@ -5,9 +5,12 @@ I have been developing **serverless** ☁️ backends/ micro-services/ etl-pipel
 * I love to watch NBA and play basketball, Stephen Curry is my favourite ❤️ player.
 * I have passion for trucking 🚛 so i play sometimes _**euro truck simulator 2**_ on weekends.
 * Also i love binge watching uncle BOBs leassons on clean code :computer:, its like a thrilling melody :musical_note: in sync. 
+
+<a href="https://github.com/mrafrazkhan/github-readme-stats">
+  <img align="center" src="https://github-readme-stats-mrafrazkhan.vercel.app/api/pin/?username=mrafrazkhan&repo=github-readme-stats" />
+</a>
 <!--
 **MrAfrazKhan/MrAfrazKhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
