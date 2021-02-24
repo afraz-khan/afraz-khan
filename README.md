@@ -8,8 +8,7 @@ I have been developing **serverless** ☁️ backends/ micro-services/ etl-pipel
 
 <details>
   <summary> :zap: GitHub Stats </summary>
- <img align="center" src="https://github-readme-stats-mrafrazkhan.vercel.app
-/api/pin/?username=mrafrazkhan&repo=github-readme-stats" />
+ <img align="center" src="https://github-readme-stats-mrafrazkhan.vercel.app/api/pin/?username=mrafrazkhan&repo=github-readme-stats" />
 </details>
 
 <!--
