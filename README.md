@@ -4,7 +4,7 @@ I have been developing **serverless** ☁️ backends/ micro-services/ etl-pipel
 
 * I love to watch NBA and play basketball, Stephen Curry is my favourite ❤️ player.
 * I have passion for trucking 🚛 so i play sometimes _**euro truck simulator 2**_ on weekends.
-* Also i love binge watching uncle BOBs leassons on clean code :computer:, its like a thrilling melody :musical_note: in sync. 
+* binge watch uncle BOBs lessons.
 
 ----
 
