@@ -3,8 +3,7 @@
 I have been developing **serverless** ☁️ backends/ micro-services/ etl-pipelines on AWS for more than a year. These days, learning AWS infra migrations and managing/monitoring security on AWS.
 
 * I love to watch NBA and play basketball, Stephen Curry is my favourite ❤️ player.
-* I have passion for trucking 🚛 so i play sometimes _**euro truck simulator 2**_ on weekends.
-* binge watch uncle BOBs lessons.
+* I have passion for trucking 🚛 ,I play _**euro truck simulator 2**_ on weekends.
 
 ----
 
